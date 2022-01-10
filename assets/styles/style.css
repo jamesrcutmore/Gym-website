@@ -30,3 +30,8 @@
     box-shadow: 3px 8px 20px 3px grey;
     border: 3px solid black;
 }
+.header_image {
+    background-image: url('https://img.wallpapersafari.com/desktop/1024/576/23/54/YzyvDg.jpg');
+    width: 100vw;
+    height: 61vh;
+  }
