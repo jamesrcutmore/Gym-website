@@ -183,6 +183,6 @@ My mentor Antonio for his support and advice.
 The Code Institute slack community for their quick responses and very helpful feedback!
 
 About
-A yoga website which details yoga poses to calm the mind
+A  Gym website which details yoga poses to calm the mind
 
 
