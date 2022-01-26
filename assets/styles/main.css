@@ -109,7 +109,7 @@ nav {
   background-size: cover;
   background-repeat: no-repeat;
   width: 100vw;
-  height: 61vh;
+  height: 100vh;
   border-top:  .5px solid var(--dark);
   border-bottom:  2px solid var(--dark);
   box-shadow: 0px 8px 16px 4px rgba(100, 100, 100, 0.1);
