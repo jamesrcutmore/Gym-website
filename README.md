@@ -31,7 +31,7 @@ Imagery
 The imagery used on the LD Fitness site is very important to the experience of the user, easily reconisable as a gym through the ld fitness loga and a gym themed image.
 
 Colours
-The colour scheme of the website with the light green and white backgrounds making it easy to read.
+The colour scheme of the website with the orange and darker shade for the logo and contrasting backgrounds making it easy to read.
 
 Fonts
 The Montserrat font is the main font used throughout the whole website. This font was imported via Google Fonts. I'm using Sans Serif as a backup font, in case for any reason the main font isn't being imported into the site correctly.
@@ -110,7 +110,7 @@ I also used the following websites to test responsiveness:
 Responsinator
 Am I Responsive
 Friends and Family User Testing
-Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+Friends and family were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 Fixed Bugs
 Anchor link scroll with a fixed position header
@@ -136,7 +136,6 @@ Chrome Dev Tools - Used for overall development and tweaking, including testing 
 Font Awesome - Used for Social Media icons in footer.
 GitHub - Used for version control and hosting.
 Google Fonts - Used to import and alter fonts on the page.
-TinyPNG - Used to compress images to reduce file size without a reduction in quality.
 W3C - Used for HTML & CSS Validation.
 Deployment
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
@@ -183,6 +182,6 @@ My mentor Antonio for his support and advice.
 The Code Institute slack community for their quick responses and very helpful feedback!
 
 About
-A  Gym website which details yoga poses to calm the mind
+A Gym website which details yoga poses to calm the mind
 
 
