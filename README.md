@@ -99,8 +99,8 @@ The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8
 I also used the following websites to test responsiveness:
 Responsinator
 Am I Responsive
-Family User Testing
-Friends were asked to review the site and documentation to point out any bugs and/or user experience issues.
+Family and family User Testing
+Friends and family were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 Fixed Bugs
 Anchor link scroll with a fixed position header
@@ -144,14 +144,11 @@ Go to LD fitness for use of there name and ideas
 Google images
 Google fonts
 
-Inspiration for dropdown nav bar - W3Schools
 Stack Overflow
 Acknowledgments
 My mentor Antonio for his support and advice.
 
 The Code Institute slack community for their quick responses and very helpful feedback!
 
-About
-A Gym website which details yoga poses to calm the mind
 
 
