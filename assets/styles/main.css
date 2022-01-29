@@ -199,7 +199,90 @@ nav {
   color: var(--light);
 }
 
-/* Mobile (landscape) */@media screen and (max-width: 480px) and (orientation: landscape) {.navigation-bar__brand {color: green;}}/* Mobile (portrait) */@media screen and (max-width: 480px) and (orientation: portrait) {.navigation-bar__brand {color: blue;}}/* Tablet (landscape) */@media screen and (min-width: 481px) and (max-width: 768px) and (orientation: landscape) {.navigation-bar__brand {color: pink;}}/* Tablet (portrait) */@media screen and (max-width: 768px) and (min-width: 481px) and (orientation: portrait) {.navigation-bar__brand {color: purple;}}
+/* Mobile (landscape) */
+@media screen and (max-width: 480px) and (orientation: landscape) {
+  .navigation-bar__brand {
+    color: green;
+  }
+}
 
-/* Mobile (landscape) */@media screen and (max-width: 480px) and (orientation: landscape) {.navigation-bar__brand {color: green;}}/* Mobile (portrait) */@media screen and (max-width: 480px) and (orientation: portrait) {.navigation-bar__brand {color: blue;}}/* Tablet (landscape) */@media screen and (min-width: 481px) and (max-width: 768px) and (orientation: landscape) {.navigation-bar__brand {color: pink;}}/* Tablet (portrait) */@media screen and (max-width: 768px) and (min-width: 481px) and (orientation: portrait) {.navigation-bar__brand {color: purple;}}
+/* Mobile (portrait) */
+
+@media screen and (max-width: 470px) and (orientation: portrait) {
+  .navigation-bar__brand {
+    font-size: large;
+    color: blue;
+  }
+
+  .navigation-bar__navigation {
+    width: 60%;
+  }
+
+  .navigation-bar__navigation__link {
+    font-size: small;
+  }
+
+  .header {
+    background-position: 50% 0;
+    height: 19rem;
+    background-size: contain;
+    background-size: 175%;
+  }
+
+  .footer {
+    height: 125%;
+  }
+
+  .footer__content {
+    flex-direction: column;
+    height: 75%;
+  }
+}
+
+/* Tablet (landscape) */
+@media screen and (min-width: 481px) and (max-width: 768px) and (orientation: landscape) {
+  .navigation-bar__brand {
+    color: pink;
+  }
+
+  .header {
+    background-position: 100% 0;
+  }
+}
+
+/* Tablet (portrait) */
+@media screen and (max-width: 768px) and (min-width: 481px) and (orientation: portrait) {
+  .navigation-bar__brand {
+    color: purple;
+  }
+
+  .header {
+    background-position: 100% 0;
+  }
+}
+/* Mobile (landscape) */
+
+@media screen and (max-width: 470px) and (orientation: landscape) {
+
+  .navigation-bar__brand {
+  
+  color: green;
+  
+  }
+  
+  }
+  
+  
+  
+  /* Mobile (portrait) */
+  
+  
+  
+  @media screen and (max-width: 375px) and (orientation: portrait) {
+  
+  .navigation-bar__brand {
+  
+  color: blue;
+  
+  }
 

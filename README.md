@@ -13,7 +13,6 @@ To provide the user with information about pricing and times.
 To provide the user with clear and concise instructions .
 To present the user with a website that is easy to navigate, fully responsive and easy to subscribe.
 To enable the user to locate gym premises in their local area if they wish to look around first.
-To allow users to contribute their suggested yoga poses and sign up to the Mind Yoga Newsletter.
 User Stories
 First time user
 As a first time user I want to understand the main purpose of the site and IE LD Fitness logo and imagery of a gym. 
