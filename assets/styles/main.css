@@ -201,6 +201,5 @@ nav {
 
 /* Mobile (landscape) */@media screen and (max-width: 480px) and (orientation: landscape) {.navigation-bar__brand {color: green;}}/* Mobile (portrait) */@media screen and (max-width: 480px) and (orientation: portrait) {.navigation-bar__brand {color: blue;}}/* Tablet (landscape) */@media screen and (min-width: 481px) and (max-width: 768px) and (orientation: landscape) {.navigation-bar__brand {color: pink;}}/* Tablet (portrait) */@media screen and (max-width: 768px) and (min-width: 481px) and (orientation: portrait) {.navigation-bar__brand {color: purple;}}
 
-[20:15] Scott Woodcock
 /* Mobile (landscape) */@media screen and (max-width: 480px) and (orientation: landscape) {.navigation-bar__brand {color: green;}}/* Mobile (portrait) */@media screen and (max-width: 480px) and (orientation: portrait) {.navigation-bar__brand {color: blue;}}/* Tablet (landscape) */@media screen and (min-width: 481px) and (max-width: 768px) and (orientation: landscape) {.navigation-bar__brand {color: pink;}}/* Tablet (portrait) */@media screen and (max-width: 768px) and (min-width: 481px) and (orientation: portrait) {.navigation-bar__brand {color: purple;}}
 
