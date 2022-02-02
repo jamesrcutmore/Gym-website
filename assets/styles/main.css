@@ -90,6 +90,7 @@ nav {
   flex-direction: row;
   justify-content: space-between;
   width: 18rem;
+  margin-right: 1rem;
 }
 
 .navigation-bar__navigation__link {
