@@ -30,4 +30,5 @@ main {
     flex-direction: row;
     justify-content: space-around;
     text-align: center;
+    flex-wrap: wrap;
   }
