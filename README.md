@@ -72,20 +72,17 @@ The register link.
 The register link includes e-mail so you can create a username to frequent the site and upgreade your price plan or contact staff fo further imformation.
 
 Footer
-<!--  -->
+The footer is brightley coloured to make it eye catching and stands out.
 
 Testing
 Validator Testing
 HTML
-No errors were returned when passing through the official W3C Markup Validator
+some errors were returned when passing through the official W3C Markup Validator ,within the divs and where corrected.
 W3C Validator Results
 CSS
 No errors were found when passing through the official W3C CSS Validator
 W3C CSS Validator Results
 Accessibility
-The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
-Lighthouse score
-
 Form Testing
 The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
 Links Testing
@@ -101,16 +98,6 @@ Am I Responsive
 Family and family User Testing
 Friends and family were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-Fixed Bugs
-Anchor link scroll with a fixed position header
-The header element contains anchor links to allow the user to navigate to different sections within the website. By default, these will scroll so that the target element is flush with the top of the browser window.
-When I updated the header to use a fixed top position, the beginning of each section ended up being covered by the header, which wasn’t ideal.
-To resolve this I created div elements at the top of each section and applied a relative position with a -75px top position (the same height as the header). This way, when the user clicks on a nav link, the browser window scrolls to the top of the corresponding section.
-Using padding on elements with 100% width / CSS Box Model
-When I first implemented my section elements I set them to use a width of 100%. When I later added content to some of these, I applied padding to create more space for the text and images.
-I did not expect the padding to be added to the width of the content box of the Section and didn’t understand why the Sections with added padding rendered at a different size to those that did not.
-I read up a bit more about the CSS Box Model and then implemented a new Div element with no defined width inside of the relevant Section elements, on which I was able to apply the required padding, while ensuring that the width of 100% was applied to all Section elements consistently.
-Known Bugs
 HTML Smooth Scroll does not work on Safari browser.
 
 Technologies Used
@@ -129,13 +116,6 @@ Google images.
 W3C - Used for HTML & CSS Validation.
 Deployment
 The project was deployed using GitHub pages. The steps to deploy using GitHub pages are:
-
-Go to the repository on GitHub.com
-Select 'Settings' near the top of the page.
-Select 'Pages' from the menu bar on the left of the page.
-Under 'Source' select the 'Branch' dropdown menu and select the main branch.
-Once selected, click the 'Save'.
-Deployment should be confirmed by a message on a green background saying "Your site is published at" followed by the web address.
 
 Credits
 Content
