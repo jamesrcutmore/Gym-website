@@ -2,19 +2,18 @@
 L D Fitness
 L D Fitness is a website that aims to provide imformation regarding gym time aswell as price plans and Adress.
 
-Mind Yoga includes step by step instructions for each specific pose along with images and a description of the benefits for each emotional state. Users who wish to attend a yoga class can use the Google Maps section to find a class in their local area. The site also includes a form section for users who wish to contribute their own suggested yoga poses.
-
 The live link can be found here - LD Fitness
 
 L D Fitness is a  Responsive Image
 
 Site Owner Goals
 To provide the user with information about pricing and times.
+
 To provide the user with clear and concise instructions .
 To present the user with a website that is easy to navigate, fully responsive and easy to subscribe.
 To enable the user to locate gym premises in their local area if they wish to look around first.
 User Stories
-First time user
+First time user:
 As a first time user I want to understand the main purpose of the site and IE LD Fitness logo and imagery of a gym. 
 As a first time user I want to be able to intuitively navigate the website and have a positive easy to use experience.
 As a first time user I want to be able to browse price plans content without having to sign-up / register.
