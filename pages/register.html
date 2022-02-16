@@ -31,29 +31,29 @@
     </nav>
 
     <div class="subscribe-form__container">
-      <form class="subscribe-form">
+      <form class="subscribe-form" method="POST" action="https://formdump.codeinstitute.net/">
         <div class="input-field">
           <label for="email">Email</label>
-          <input id="email" type="email" placeholder="frank_sinatra@email.com" />
+          <input id="email" type="email" placeholder="frank_sinatra@email.com" name="email" required />
         </div>
 
         <div class="input-field">
           <label for="password">Password</label>
-          <input id="password" type="password" placeholder="**********" />
+          <input id="password" type="password" placeholder="**********" name="password" required/>
         </div>
 
         <div class="input-field">
           <label for="confirm_password">Confirm Password</label>
-          <input id="confirm_password" type="password" placeholder="**********" />
+          <input id="confirm_password" type="password" placeholder="**********" name="password_confirm" required/>
         </div>
 
         <div class="input-field">
           <label for="text">Username</label>
-          <input id="text" type="text" placeholder="Mr Bean" />
+          <input id="text" type="text" placeholder="Mr Bean" name="username" required/>
         </div>
 
         <!-- <button>Login</button> -->
-        <button>Register</button>
+        <button type="submit">Register</button>
       </form>
     </div>
 
