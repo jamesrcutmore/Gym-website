@@ -2,7 +2,7 @@
 L D Fitness
 L D Fitness is a website that aims to provide imformation regarding gym time aswell as price plans and Adress.
 
-The live link can be found here - LD Fitness
+The live link can be found here - LD Fitness  https://jamesrcutmore.github.io/Gym-website/
 
 L D Fitness is a  Responsive Image
 
